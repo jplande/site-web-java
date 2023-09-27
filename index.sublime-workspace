@@ -1,0 +1,656 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"str",
+				"struct_cellule"
+			],
+			[
+				"in",
+				"inc\t#include <…>"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"inc",
+				"inc\t#include \"…\""
+			],
+			[
+				"liste",
+				"liste_vide"
+			],
+			[
+				"va",
+				"var"
+			],
+			[
+				"lenght",
+				"length"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"backgroun",
+				"background-color\tproperty"
+			],
+			[
+				"tex",
+				"text-decoration\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"l",
+				"lorem\tLorem ipsum"
+			],
+			[
+				"h",
+				"h3\tTag"
+			],
+			[
+				"i",
+				"img\tTag"
+			],
+			[
+				"c",
+				"circle\tlist-style-type"
+			],
+			[
+				"border-co",
+				"border-color\tproperty"
+			],
+			[
+				"border",
+				"border-style\tproperty"
+			],
+			[
+				"le",
+				"letter-spacing\tproperty"
+			],
+			[
+				"lis",
+				"list-style-type\tproperty"
+			],
+			[
+				"te",
+				"text-decoration\tproperty"
+			],
+			[
+				"fon",
+				"font-style\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"paddi",
+				"padding-bottom\tproperty"
+			],
+			[
+				"ba",
+				"background-image\tproperty"
+			],
+			[
+				"bor",
+				"border\tproperty"
+			],
+			[
+				"fo",
+				"font-style\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"tra",
+				"transition\tproperty"
+			],
+			[
+				"borde",
+				"border-style\tproperty"
+			],
+			[
+				"marg",
+				"margin-right\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"paddin",
+				"padding-bottom\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"chaine",
+				"chaine_caractere"
+			],
+			[
+				"chai",
+				"chaine_caractere"
+			],
+			[
+				"se",
+				"section\tTag"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"funcn",
+				"funcion"
+			],
+			[
+				"comp",
+				"comp"
+			],
+			[
+				"for",
+				"for\tfor …"
+			],
+			[
+				"tab",
+				"tab2"
+			],
+			[
+				"exp",
+				"explode"
+			],
+			[
+				"obtenu",
+				"obtenu"
+			],
+			[
+				"ve",
+				"verifierDiplome"
+			],
+			[
+				"ver",
+				"verifierBac"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"th",
+				"th\tTag"
+			],
+			[
+				"m",
+				"manchotmagellan"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"man",
+				"manchot_empereur"
+			],
+			[
+				"pal",
+				"palyndrome_rec"
+			],
+			[
+				"cha",
+				"chaine"
+			],
+			[
+				"max",
+				"max\tAttr"
+			],
+			[
+				"t",
+				"text"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"s",
+				"select\tTag"
+			],
+			[
+				"fi",
+				"fieldset\tTag"
+			],
+			[
+				"tet",
+				"text-align\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"rec",
+				"rec_inverse"
+			],
+			[
+				"rec_",
+				"rec_inverse_bis"
+			],
+			[
+				"ca",
+				"caption\tTag"
+			],
+			[
+				"fig",
+				"figcaption\tTag"
+			],
+			[
+				"mo",
+				"moy_g"
+			],
+			[
+				"moy",
+				"moy_a"
+			],
+			[
+				"ma",
+				"math.h\tstandard header"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"MLV",
+				"MLV_draw_image"
+			],
+			[
+				"ML",
+				"MLV_draw_image"
+			],
+			[
+				"des",
+				"dessinerbrique"
+			],
+			[
+				"suiva",
+				"suivante"
+			],
+			[
+				"br",
+				"brique"
+			],
+			[
+				"bri",
+				"BRIQUE"
+			],
+			[
+				"courn",
+				"courant"
+			],
+			[
+				"pen",
+				"pentey"
+			],
+			[
+				"pe",
+				"pentey"
+			],
+			[
+				"n",
+				"niveau"
+			],
+			[
+				"r",
+				"res"
+			],
+			[
+				"pt",
+				"PTBRIQUE"
+			],
+			[
+				"p",
+				"PTBALLE"
+			],
+			[
+				"P",
+				"PTBALLE"
+			],
+			[
+				"PT",
+				"PTBRIQUE"
+			],
+			[
+				"ini",
+				"initialiser"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/lalan/cours_l2/dev_web/web/ProjetWeb/httpdocs/admin/index.php",
+		"/C/wamp64/www/admin/add_article.php",
+		"/C/wamp64/www/httpdocs/vendor/autoload.php",
+		"/C/wamp64/www/article.php",
+		"/C/Users/lalan/cours_l2/dev_web/web/ProjetWeb/httpdocs/admin/LICENSE",
+		"/C/Users/lalan/cours_l2/dev_web/web/ProjetWeb/httpdocs/admin/login.php",
+		"/C/Users/lalan/cours_l2/dev_web/web/ProjetWeb/httpdocs/admin/addadmin.php",
+		"/C/Users/lalan/cours_l2/dev_web/web/ProjetWeb/httpdocs/class/Card.php",
+		"/C/Users/lalan/cours_l2/dev_web/web/ProjetWeb/httpdocs/class/Database.php",
+		"/C/Users/lalan/cours_l2/dev_web/web/ProjetWeb/httpdocs/class/Produits.php",
+		"/C/Users/lalan/cours_l2/dev_web/web/ProjetWeb/httpdocs/js/main.js",
+		"/C/Users/lalan/AppData/Local/Temp/Temp1_archive (3).zip/td8_correction/td8_rechercher.html",
+		"/C/Users/lalan/AppData/Local/Temp/Temp1_archive (3).zip/td8_correction/td8_ajouter.php",
+		"/C/Users/lalan/AppData/Local/Temp/Temp1_archive (3).zip/td8_correction/td8_connex.inc.php",
+		"/C/Users/lalan/AppData/Local/Temp/Temp1_archive (4).zip/index.php",
+		"/C/Users/lalan/AppData/Local/Temp/Temp1_archive (3).zip/td7_correction/td7_choisir.php",
+		"/C/Users/lalan/AppData/Local/Temp/Temp1_archive (4).zip/inscription.php",
+		"/C/Users/lalan/AppData/Local/Temp/Temp1_archive (3).zip/td8_correction/td8_supprimer.php",
+		"/C/Users/lalan/AppData/Local/Temp/Temp1_archive (3).zip/td8_correction/td8_resultats.php",
+		"/C/Users/lalan/AppData/Local/Temp/Temp1_archive (3).zip/td7_correction/td7_variables.php",
+		"/C/wamp64/www/index.html",
+		"/C/Users/lalan/AppData/Local/Temp/Temp1_archive (3).zip/td5_correction/td5_exo2.php",
+		"/C/Users/lalan/AppData/Local/Temp/Temp1_archive (3).zip/td6_correction/td6_livres.html",
+		"/C/Users/lalan/AppData/Local/Temp/Temp1_archive (3).zip/td6_correction/td6_galerie.php",
+		"/C/Users/lalan/AppData/Local/Temp/Temp1_archive (3).zip/td6_correction/td6_enregistrer.php",
+		"/C/wamp64/www/register.php",
+		"/C/wamp64/www/header.php",
+		"/C/wamp64/www/index.php",
+		"/C/Users/lalan/AppData/Local/Temp/Temp1_archive (3).zip/td5_correction/td5_exo1.php",
+		"/C/wamp64/www/js/contact-form-script.js",
+		"/C/wamp64/www/error_log",
+		"/C/wamp64/www/login.php",
+		"/C/wamp64/www/contact.php",
+		"/C/wamp64/www/connection.php",
+		"/C/wamp64/www/checkout.php",
+		"/C/wamp64/www/php/form-process.php",
+		"/C/wamp64/www/cart.php",
+		"/C/wamp64/www/product_detail.php",
+		"/C/wamp64/www/footer.php",
+		"/C/wamp64/www/about.php",
+		"/C/wamp64/www/ajax.php",
+		"/C/wamp64/www/account.php",
+		"/C/wamp64/www/web/index.php",
+		"/C/Users/lalan/Downloads/Lalande_essahel.tar.gz",
+		"/C/Users/lalan/Downloads/connexion.php",
+		"/C/Users/lalan/AppData/Local/Temp/Temp1_Projet-prog-main.zip/Projet-prog-main/application/affichage.h",
+		"/C/Users/lalan/Downloads/td6_enregistrer (1).php",
+		"/C/Users/lalan/AppData/Local/Temp/Temp1_Projet-prog-main.zip/Projet-prog-main/application/affichage.c",
+		"/C/Users/lalan/AppData/Local/Temp/Temp1_Projet-prog-main (3).zip/Projet-prog-main/application/TAD_arbre.c",
+		"/C/Users/lalan/AppData/Local/Temp/Temp1_Projet-prog-main (3).zip/Projet-prog-main/application/fonctions.c",
+		"/C/Users/lalan/AppData/Local/Temp/Temp1_Projet-prog-main.zip/Projet-prog-main/application/fonctions.c",
+		"/C/Users/lalan/AppData/Local/Temp/Temp1_Projet-prog-main (3).zip/Projet-prog-main/application/.#fonctions.c",
+		"/C/Users/lalan/AppData/Local/Temp/Temp1_Projet-prog-main (3).zip/Projet-prog-main/application/main.c",
+		"/C/Users/lalan/AppData/Local/Temp/Temp1_Projet-prog-main (3).zip/Projet-prog-main/application/affichage.c",
+		"/C/Users/lalan/Downloads/td6_livres.html",
+		"/C/Users/lalan/Downloads/td5_exo2.php",
+		"/C/Users/lalan/Downloads/td5_exo1 (2).php",
+		"/C/Users/lalan/AppData/Local/Temp/Temp1_Projet-prog-main.zip/Projet-prog-main/application/global.h",
+		"/C/Users/lalan/AppData/Local/Temp/Temp1_Projet-prog-main.zip/Projet-prog-main/application/fonctions.h",
+		"/C/Users/lalan/cours_l2/prog/aide.c",
+		"/C/Users/lalan/cours_l2/prog/devoir.c",
+		"/C/Users/lalan/Downloads/file_tableau.h",
+		"/C/Users/lalan/Downloads/pile_tableau.c",
+		"/C/Users/lalan/Downloads/pile_tableau.h",
+		"/C/Users/lalan/Downloads/matrice_creuse.c",
+		"/C/Users/lalan/Downloads/matrice_creuse.h",
+		"/C/Users/lalan/cours_l2/dev_web/td/td8_ajouter.php",
+		"/C/Users/lalan/cours_l2/dev_web/td/inserer.html",
+		"/C/Users/lalan/Downloads/file_tableau.c",
+		"/C/Users/lalan/AppData/Local/Temp/Temp1_Projet-prog-main.zip/Projet-prog-main/application/main.c",
+		"/C/Users/lalan/cours_l2/prog/matrice_creuse.c",
+		"/C/Users/lalan/Downloads/td3_8.c",
+		"/C/Users/lalan/Downloads/td3_5.c",
+		"/C/Users/lalan/Downloads/td3_bonus.c",
+		"/C/Users/lalan/Downloads/fonctions_td3 (1).c",
+		"/C/Users/lalan/Downloads/td6_enregistrer.php",
+		"/C/Users/lalan/Downloads/td5_exo1.php",
+		"/C/Users/lalan/cours_l2/dev_web/renseignements.html",
+		"/C/Users/lalan/cours_l2/prog/file.h",
+		"/C/Users/lalan/cours_l2/prog/file.c",
+		"/C/Users/lalan/cours_l2/prog/td_4_liste_chaine.h",
+		"/C/Users/lalan/cours_l2/prog/td_4_liste_chaine.c",
+		"/C/Users/lalan/cours_l2/prog/td_4_pile.c",
+		"/C/Users/lalan/cours_l2/prog/lalande.c",
+		"/C/Users/lalan/cours_l2/prog/liste.c",
+		"/C/Users/lalan/cours_l2/dev_web/LALANDE_JEAN-PAUL/index.js",
+		"/C/Users/lalan/cours_l2/dev_web/LALANDE_JEAN-PAUL/style.css",
+		"/C/Users/lalan/cours_l2/dev_web/LALANDE_JEAN-PAUL/index.html",
+		"/C/Users/lalan/cours_l2/dev_web/renseignement.js",
+		"/C/Users/lalan/cours_l2/dev_web/test/index.html",
+		"/C/Users/lalan/cours_l2/dev_web/table.html",
+		"/C/Users/lalan/cours_l2/dev_web/td3/renseignements.html",
+		"/C/Users/lalan/cours_l2/dev_web/td3/renseignement.js",
+		"/C/Users/lalan/Downloads/test_cv.html",
+		"/C/Users/lalan/Downloads/informatique.html",
+		"/C/Users/lalan/Downloads/informatique.css",
+		"/C/Users/lalan/cours_l2/dev_web/test/index.css",
+		"/C/Users/lalan/Downloads/1_mise_en_forme.html",
+		"/C/Users/lalan/Downloads/corriger_css.css",
+		"/C/Users/lalan/cours_l2/prog/td_2_1.c",
+		"/C/Users/lalan/Downloads/td_2_1.c",
+		"/C/Users/lalan/cours_l2/prog/palindrome.c",
+		"/C/Users/lalan/cours_l2/prog/partiel_1_2.c",
+		"/C/Users/lalan/cours_l2/prog/echanger.c",
+		"/C/Users/lalan/Downloads/style.css",
+		"/C/Users/lalan/Downloads/CV.html",
+		"/C/Users/lalan/cours_l2/dev_web/td5/tri_tableau.php",
+		"/C/Users/lalan/cours_l2/dev_web/td5/tableau.php",
+		"/C/Users/lalan/cours_l2/dev_web/corriger_html.html",
+		"/C/Users/lalan/cours_l2/dev_web/td4/couleur.html",
+		"/C/Users/lalan/cours_l2/dev_web/monarque.html",
+		"/C/Users/lalan/cours_l2/dev_web/tp_tab.html",
+		"/C/Users/lalan/Downloads/palindrome.c",
+		"/C/Users/lalan/cours_l2/dev_web/modele_boite.html",
+		"/C/Users/lalan/cours_l2/dev_web/td1.html",
+		"/C/Users/lalan/cours_l2/dev_web/table.css",
+		"/C/Users/lalan/cours_l2/dev_web/modele_boite.css",
+		"/C/Users/lalan/cours_l2/dev_web/texte.css",
+		"/C/Users/lalan/cours_l2/dev_web/texte.html",
+		"/C/Users/lalan/cours_l2/dev_web/structure.html",
+		"/C/Users/lalan/cours_l2/dev_web/td2.css",
+		"/C/Users/lalan/cours_l2/dev_web/td2.html",
+		"/C/Users/lalan/Downloads/td1_1.c",
+		"/C/Users/lalan/Downloads/td_1_3.c",
+		"/C/Users/lalan/Downloads/porg.c",
+		"/C/Users/lalan/Downloads/td2_3.c",
+		"/C/Users/lalan/dev_web/td1.html",
+		"/C/Users/lalan/Downloads/projet_bis.c"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 43.3333333333
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
