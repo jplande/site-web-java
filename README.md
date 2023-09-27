@@ -1,2 +1,2 @@
 # site-web-java
-site web static
+projet L2 site e-commerce
