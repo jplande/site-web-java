@@ -1,2 +1,2 @@
 # site-web-java
-site web staitic
+site web static
